@@ -23,6 +23,20 @@ You can visit the live website here:
 👉 https://myportfolio-fa6b9.web.app/
 
 ## 📸 Screenshots
+## Header Section  
+![Header Screenshot](https://github.com/mh4746/my-portfolio/blob/main/header.JPG?raw=true)
+
+## Technical Skills
+![Technical Skills](https://github.com/mh4746/my-portfolio/blob/main/technical%20skill.JPG?raw=true)
+
+## Experience
+https://github.com/mh4746/my-portfolio/blob/main/experience.JPG
+
+## Project
+https://github.com/mh4746/my-portfolio/blob/main/project.JPG
+
+## Contact
+https://github.com/mh4746/my-portfolio/blob/main/contact.JPG
 
 
 ## 🧑‍💻 About Me
