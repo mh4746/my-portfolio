@@ -28,13 +28,13 @@ You can visit the live website here:
 ![Technical Skills](https://github.com/mh4746/my-portfolio/blob/main/technical%20skill.JPG?raw=true)
 
 ## Experience
-https://github.com/mh4746/my-portfolio/blob/main/experience.JPG
+![Experience](https://github.com/mh4746/my-portfolio/blob/main/experience.JPG?raw=true)
 
 ## Project
-https://github.com/mh4746/my-portfolio/blob/main/project.JPG
+![Projects](https://github.com/mh4746/my-portfolio/blob/main/project.JPG?raw=true)
 
 ## Contact
-https://github.com/mh4746/my-portfolio/blob/main/contact.JPG
+![Contact](https://github.com/mh4746/my-portfolio/blob/main/contact.JPG?raw=true)
 
 
 ## 🧑‍💻 About Me
