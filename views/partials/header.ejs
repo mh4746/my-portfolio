@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <meta name="description" content="Expert Android Developer specializing in BLE, IoT, Fitness Trackers, Smart Watches, and Mobile Applications">
+    <link rel="stylesheet" href="/css/style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="/">Android Expert</a>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="/" class="nav-link <%= page === 'home' ? 'active' : '' %>">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/experience" class="nav-link <%= page === 'experience' ? 'active' : '' %>">Experience</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/projects" class="nav-link <%= page === 'projects' ? 'active' : '' %>">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/contact" class="nav-link <%= page === 'contact' ? 'active' : '' %>">Contact</a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
