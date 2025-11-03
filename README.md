@@ -1,5 +1,3 @@
-# my-portfolio
-My personal portfolio site was built with Node.js and Firebase to present Android app development work and client projects
 
 # My Developer Portfolio
 This is my personal portfolio website built using **Node.js** and **Firebase Hosting**.  
